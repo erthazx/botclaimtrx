@@ -12,9 +12,9 @@ $ pkg install git
 
 $ pkg install php
 
-$ git clone https://github.com/erthazx/faucettools.git
+$ git clone https://github.com/erthazx/botclaimtrx.git
 
-$ cd faucettools
+$ cd botclaimtrx
 
 $ php bot.php
 
